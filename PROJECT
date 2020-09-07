@@ -1,0 +1,7 @@
+domain: yuswift2018.com
+repo: github.com/yuswift2018/kubebuilder-example
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1alpha1
+version: "2"

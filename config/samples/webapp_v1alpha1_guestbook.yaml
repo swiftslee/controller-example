@@ -1,0 +1,7 @@
+apiVersion: webapp.yuswift2018.com/v1alpha1
+kind: Guestbook
+metadata:
+  name: guestbook-sample
+spec:
+  # Add fields here
+  foo: bar
